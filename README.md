@@ -1,4 +1,4 @@
-@@ -0,0 +1,2 @@ # SDC_Project 
+# SDC_Project 
 AWS Lambda Layers for Code Reusability
 **📌 Overview**
 This project demonstrates code reusability in AWS Lambda by using Lambda Layers. The core idea is to modularize commonly used functions—such as account number validation—into a shared layer, enabling cleaner, more maintainable code across multiple Lambda functions.
